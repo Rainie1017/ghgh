@@ -89,4 +89,4 @@ c、	附：学校教室教学楼录入信息
 
 组员：  刘凯明     201440703155    <https://github.com/LiuKaiming> 
 
-组员：  赵梓男   201440703187   <https://github.com/ZHAOzn>           
+组员： 宋锐 	  201440703187   <https://github.com/Rainie1017>           
